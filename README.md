@@ -13,6 +13,8 @@ You can connect your Master System II to RGB or S-VIDEO TV/Monitor
 
 ![Cablaggio](https://github.com/amigamess/MasterSystemII_Rgb/assets/82521152/cebce24b-fc74-4a2d-801e-8a3f1d74515d)
 
+![s-l1600](https://github.com/amigamess/MasterSystemII_Rgb/assets/82521152/02d51f3b-9888-4607-aabc-4409deca6632)
+
 
 PCBWay Link: https://www.pcbway.com/project/shareproject/Sega_Master_System_II_RGB_mod_835cd02c.html
 
