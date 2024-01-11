@@ -9,9 +9,13 @@ You can connect your Master System II to RGB or S-VIDEO TV/Monitor
 
 Components:
 8 Pin Mini DIN 8 Pin DIN PS2 Jack Mini circolare telaio (Aliexpress)
+
 R1 100 ohm 0805 
+
 R2-R7 75 ohm 0805 
+
 C1-C6 220uF SMD 6.3x5.2
+
 C7 10uF SMD 4x5.4
 
 
