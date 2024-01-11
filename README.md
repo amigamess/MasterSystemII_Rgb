@@ -7,6 +7,14 @@ Sega Master System II RGB mod
 
 You can connect your Master System II to RGB or S-VIDEO TV/Monitor
 
+Components:
+8 Pin Mini DIN 8 Pin DIN PS2 Jack Mini circolare telaio (Aliexpress)
+R1 100 ohm 0805 
+R2-R7 75 ohm 0805 
+C1-C6 220uF SMD 6.3x5.2
+C7 10uF SMD 4x5.4
+
+
 ![344100104_777961707118538_2874564122602579536_n](https://github.com/amigamess/MasterSystemII_Rgb/assets/82521152/bf0cf3f0-9d08-4b48-b585-7907bba7793d)
 
 ![sega-master-system-2-rgb-video-171-5922a-solder-map-1024x768](https://github.com/amigamess/MasterSystemII_Rgb/assets/82521152/a2d28062-77cb-4b19-85e9-5fd36c1310f8)
